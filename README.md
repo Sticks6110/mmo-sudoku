@@ -5,6 +5,7 @@ https://sticks6110.github.io/mmo-sudoku/
 # Frameworks, Languages, and Tools Used
 - SpacetimeDB (Rust)
 - React TypeScript
+- p5.js
 - Tailwind
 - Git
 
